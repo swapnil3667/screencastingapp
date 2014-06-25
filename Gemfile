@@ -47,8 +47,8 @@ group :production do
     gem 'pg'		
 end
 
-gem 'thin'
-gem 'therubyracer'
+#gem 'thin'
+#gem 'therubyracer'
 
 
 
